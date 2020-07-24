@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Muhammad Razlan"
+resume_name:                    "Muhammad Razlan Hanif"
 resume_title:                   "Information System Engineering/Web Design"
 
 # used for the contact button in _layouts/resume.html
